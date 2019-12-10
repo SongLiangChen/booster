@@ -1,4 +1,4 @@
-module booster
+module github.com/SongLiangChen/booster
 
 go 1.13
 
